@@ -1,4 +1,4 @@
-##🚴 Excel Dashboard Project: Bike Buyers Analysis
+🚴 Excel Dashboard Project: Bike Buyers Analysis
 This project showcases my ability to clean, transform, and visualize customer data using Microsoft Excel. I analyzed a comprehensive dataset of over 1,000 records to uncover patterns in bike purchasing behavior.
 🔧 Key Steps:
 - Data Cleaning: Removed duplicates, standardized categorical values, and ensured consistent formatting across fields like income, education, and commute distance.
